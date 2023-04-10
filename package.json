@@ -1,0 +1,37 @@
+{
+  "name": "grupo_5_sacachispas",
+  "version": "1.0.0",
+  "description": "**Sneakicks** es un E-Comerce destinado a la venta de zapatillas. Su nombre proviene de la combinación de dos términos en inglés, *sneakers* y *kicks*, que hacen referencia a los calzados deportivos o de uso casual.//",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranciscoZanetti/grupo_5_sacachispas.git"
+  },
+  "author": "sacachispas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranciscoZanetti/grupo_5_sacachispas/issues"
+  },
+  "homepage": "https://github.com/FranciscoZanetti/grupo_5_sacachispas#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.7",
+    "express": "^4.17.3",
+    "express-session": "^1.17.3",
+    "express-validator": "^6.14.0",
+    "method-override": "^3.0.0",
+    "multer": "^1.4.4",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "node-fetch": "^2.6.6",
+    "nodemon": "^2.0.16",
+    "sequelize": "^6.21.3"
+  }
+}
