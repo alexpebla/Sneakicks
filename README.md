@@ -13,24 +13,6 @@ Complementariamente, se ofrece el servicio de envío a domicilio del producto ad
 **Sneakicks** apunta a un público variado, de todas las edades, tanto hombres como mujeres, y de cualquier parte del país. Esto se refleja en la variedad de talles ofrecidos para los calzados: **Men´s**, **Women´s** y **Kid´s**.
 
 
-## Quiénes somos
-
-### Alexander Pérez Blanco
-
-Mi nombre es Alexander Pérez Blanco, vivo en Medellín, Colombia. Tengo 28 años y soy tecnólogo en operación de plantas y procesos industriales. Trabajo en control de calidad de una empresa dedicada a la fabricación de pilas y baterías.
-
-
-### Francisco Zanetti
-
-Soy Francisco Zanetti, vivo en Ciudad Autónoma de Buenos Aires, Argentina. Tengo 20 años y estudio Ingeniería Informática, con especial interés en el desarrollo de software. Tengo experiencia en modelados y renders para estudios de arquitectura.
-
-### Alan Kasis
-
-Soy Alan Kasis, tengo 27 años y vivo en la Ciudad Autónoma de Buenos Aires. Soy Ingeniero Civil especializado en infraestructura hidraulica y transporte de fluidos. Actualmente trabajo en el area de desarrollo de una startup argentina.
-
-### Federico Caffaro
-
-
 ## Sitios de Referencia
 
 * ### [Foot Locker][footlocker]
@@ -46,13 +28,6 @@ Su cabecera es minimalista y muestra información resumida, que se despliega de 
 Sus plataformas son muy similares, y en ambos casos la *home page* muestra bloques y categorías útiles que fueron tomados de ejemplo. La barra de navegación despliega menús de forma cómoda.
 
 
-## Espacio de trabajo en Trello
-
-https://trello.com/digitalhousegrupo51
-
-## Repositorio en GitHub
-
-https://github.com/FranciscoZanetti/grupo_5_sacachispas.git
 
 [footlocker]: https://www.footlocker.com/
 [mercadolibre]: https://www.mercadolibre.com.ar/
